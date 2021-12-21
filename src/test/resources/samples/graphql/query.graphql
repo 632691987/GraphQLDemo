@@ -1,0 +1,13 @@
+{
+    searchUsers(userFilter:{
+        username: "username1"
+    }) {
+        username
+        password
+        component3 {
+            component3Field1
+            component3Field2
+        }
+
+    }
+}

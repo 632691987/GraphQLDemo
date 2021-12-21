@@ -1,0 +1,7 @@
+type User {
+    username: String
+    password: String
+    component1: Component1
+    component2: Component2
+    component3: Component3
+}

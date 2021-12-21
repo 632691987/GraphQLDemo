@@ -1,0 +1,4 @@
+type Component2 {
+    component2Field1 : String
+    component2Field2 : String
+}

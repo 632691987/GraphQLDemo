@@ -1,0 +1,4 @@
+type Component3 {
+    component3Field1 : Long
+    component3Field2 : Date
+}

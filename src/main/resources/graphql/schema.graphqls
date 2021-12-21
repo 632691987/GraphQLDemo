@@ -1,0 +1,12 @@
+scalar Date
+scalar Long
+scalar Object
+
+input UserFilter {
+    username: String!
+    password: String
+}
+
+type Query {
+    searchUsers(userFilter: UserFilter): [User]!
+}
